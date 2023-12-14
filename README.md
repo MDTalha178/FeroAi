@@ -30,7 +30,7 @@ OPTIONAL:- In case finding difficulty in creating virtual environment by above c
 Activate environment:
 
 source venv/bin/activate
-Clone project: git clone https://github.com/KiwiTechLLC/Rockstar-Backend.git
+Clone project: git clone https://github.com/MDTalha178/FeroAi.git
 
 cd ecommrece/
 for local system follow below command
